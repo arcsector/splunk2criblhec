@@ -1,0 +1,3 @@
+title,description,token,source,sourcetype,index,indexes
+"http://vpn_hec","vpn token for logs","1000000a-0000-0000-0000-700000000005","optional_source","optional_sourcetype","default_index","optional,list,of,other,indexes,to,be,enforced"
+"http://indexesless_hec","other token for logs","2000000a-0000-0000-0000-700000000005","optional_source","optional_sourcetype","default_index",
